@@ -2,13 +2,13 @@
 Shorturl is simple MVC pattern web Application created in **Go** language. 
 
 ## Description
----
+
 The shorturl is url shortner web application.
 backend is wriiten in **Go** , and frontend is simple **HTML** with **BootStrap** for styling.  **PostgreSQL** is used  for database.  
 
 
 ## How to Run
----
+
 To Run using docker use
 ```shell
 docker-compose up
